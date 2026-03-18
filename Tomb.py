@@ -3,7 +3,7 @@ from orbiLib import type_message, updateCheck, libUpdate, greetingMessage
 import time
 import fernetManagment as fm
 
-TombVersion = '0.2.0'
+TombVersion = '0.2.1'
 OrbiProject = 'Tomb'
 
 
