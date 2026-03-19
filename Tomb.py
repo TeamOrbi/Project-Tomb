@@ -1,9 +1,9 @@
 from cryptography.fernet import Fernet
-from orbiLib import type_message, updateCheck, libUpdate, greetingMessage
+from orbiLib import *
 import time
 import fernetManagment as fm
 
-TombVersion = '0.2.1'
+TombVersion = '0.2.2'
 OrbiProject = 'Tomb'
 
 
